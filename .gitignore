@@ -1,0 +1,12 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore random test files
+Untitled*
+notes.py
+demo.py
+homemade cake proj/
+
+# Ignore compiled python junk
+__pycache__/
+*.pyc
